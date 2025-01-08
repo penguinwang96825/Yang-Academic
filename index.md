@@ -14,8 +14,8 @@ I am a ML and NLP Researcher at the University of Sheffield, focusing on natural
 
 ## News
 
-- **[November. 2020]** Our paper about adversarial defence is accepted to COLING 2025.
-- **[November. 2020]** Our paper about multi-agent is accepted to COLING 2025.
+- **[November. 2024]** Our paper about adversarial defence is accepted to COLING 2025.
+- **[November. 2024]** Our paper about multi-agent is accepted to COLING 2025.
 
 {% include_relative _includes/publications.md %}
 
