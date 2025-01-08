@@ -22,6 +22,17 @@ main:
     notes: Oral Presentation
     image: ./assets/img/coling_agent.png
 
+  - title: "Adversarial Defence without Adversarial Defence: An Instance-level Principal Component Removal Approach"
+    authors: <strong>Yang Wang</strong>, Chenghao Xiao, Yizhi Li, Stuart E. Middleton, Noura Al Moubayed, Chenghua Lin
+    conference_short: TACL
+    conference: Transactions of the Association for Computational Linguistics <strong>(TACL)</strong>, 2025.
+    # pdf: https://arxiv.org/abs/2501.02654
+    # code: https://github.com/PuReDefence/AdvBench4Text
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Under Review
+    image: ./assets/img/tacl_adv.png
+
   - title: "Audio Contrastive based Fine-tuning"
     authors: <strong>Yang Wang</strong>, Qibin Liang, Chenghao Xiao, Yizhi Li, Noura Al Moubayed, Chenghua Lin
     conference_short: arXiv
