@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a ML and NLP Researcher at the University of Sheffield, focusing on natural language processing and audio technology.
+I am a ML and NLP Researcher at the University of Sheffield, focusing on natural language processing, audio and speech processing, multimodality modelling, and applied mathematics. I am passionate about employing simple methods to solve complex problems.
 
 ## Research Interests
 
