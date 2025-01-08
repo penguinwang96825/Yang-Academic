@@ -24,7 +24,7 @@ main:
 
   - title: "Audio Contrastive based Fine-tuning"
     authors: <strong>Yang Wang</strong>, Qibin Liang, Chenghao Xiao, Yizhi Li, Noura Al Moubayed, Chenghua Lin
-    # conference_short: COLING
+    conference_short: arXiv
     # conference: The 31st International Conference on Computational Linguistics <strong>(COLING)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2309.11895
     # code: https://github.com/PuReDefence/AdvBench4Text
