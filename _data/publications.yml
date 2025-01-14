@@ -9,7 +9,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/coling_adv.png
+    image: ./assets/img/coling_adv_bench.png
 
   - title: "From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls"
     authors: Tomas Goldsack, <strong>Yang Wang</strong>, Chenghua Lin, Chung-Chi Chen
@@ -35,11 +35,11 @@ main:
 
   - title: "Audio Contrastive based Fine-tuning"
     authors: <strong>Yang Wang</strong>, Qibin Liang, Chenghao Xiao, Yizhi Li, Noura Al Moubayed, Chenghua Lin
-    conference_short: arXiv
-    # conference: The 31st International Conference on Computational Linguistics <strong>(COLING)</strong>, 2025.
+    conference_short: TASLP
+    conference: Transactions on Audio, Speech, and Language Processing <strong>(TASLP)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2309.11895
     # code: https://github.com/PuReDefence/AdvBench4Text
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
+    notes: Under Review
     image: ./assets/img/arxiv_audio.png
